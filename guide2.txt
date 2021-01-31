@@ -1,0 +1,18 @@
+<ol>
+
+<p>Continue in this way until everyone has run out of armies. There is no limit to the number of armies you may place onto a single territory.</p>
+
+<p>5.Shuffle the pack of RISK cards (maybe, remove the Mission cards) and place the cards face down by the side of the board.</p>
+
+<p>This pack forms the draw pile.</p>
+
+<p>6.Whoever placed the first army opens the game.</p>
+
+
+</ol>
+<ol>
+<br>
+<h2 style = "font-size:30px; margin:0px 0px 0px 25px">Game Play</h2>
+<p style = "margin:0px 0px 0px 25px">On your turn, try to capture territories by defeating your opponents' armies. But be careful: Winning battles will depend on careful planning, quick decisions, and bold moves.</p>
+<p style = "margin:0px 0px 0px 25px">You will have to place your forces wisely, attack at just the right time and fortify your defenses against all enemies.<span id="ezoic-pub-ad-placeholder-129" class="ezoic-adpicker-ad"></span></p>
+</ol>

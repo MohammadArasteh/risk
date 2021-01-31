@@ -1,0 +1,26 @@
+<ol>
+<li>
+
+<p>Select a color and, depending on the number of players, count out the "armies" you'll need to start the game.</p>
+<ul>
+<li>If 2 are playing, see <a href="risk-for-2-players.php">special instructions</a>.</li>
+<li>If 3 are playing, each player counts out 35 Infantry.</li>
+<li>If 4 are playing, each player counts out 30 Infantry.</li>
+<li>If 5 are playing, each player counts out 25 Infantry.</li>
+<li>If 6 are playing, each player counts out 20 Infantry.</li>
+</ul>
+</li>
+<li>
+
+<p>Roll one die. Whoever rolls the highest number takes one Infantry piece from his or her pile and places it onto any territory on the board, thus claiming that territory.</p>
+</li>
+<li>
+
+<p>Starting to the left of the first player, in turn, everyone places one army onto any unoccupied territory. Continue until all 42 territories have been claimed.</p>
+</li>
+<li>
+
+<p>After all 42 territories are claimed, each player in turn places one additional army onto any territory he or she already occupies.</p>
+
+</li>
+<li>
